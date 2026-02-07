@@ -49,3 +49,13 @@ This final UI-only project demonstrated that a complete, collaborative-ready Git
 
 This exercise reinforced how important good documentation and repo hygiene are — especially when onboarding new contributors or publishing public-facing work.
 
+⸻
+
+🔗 **Live Repo Reference**  
+This project was built in the original repo:  
+[archived-github-ui-final](https://github.com/forged-by-sim/archived-github-ui-final)
+
+📁 Description: Final GitHub UI simulation for structuring open-source-ready repos.  
+Now archived or made private to reduce profile clutter.
+
+

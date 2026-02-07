@@ -46,3 +46,14 @@ This hands-on project helped me simulate a GitHub-first contributor workflow. I 
 - Navigating GitHub’s file structure, history, and merge logic
 
 Completing this project strengthened my readiness to onboard into existing GitHub-hosted projects, even in environments where command-line access is restricted or collaborators prefer UI-based workflows.
+
+
+⸻
+
+🔗 **Live Repo Reference**  
+This project was completed using the live GitHub repo:  
+[archived-github-ui-practice](https://github.com/forged-by-sim/archived-github-ui-practice)
+
+📁 Description: Practice repo created during GitHub UI branching & documentation tasks.  
+(Archived or made private after portfolio consolidation.)
+
